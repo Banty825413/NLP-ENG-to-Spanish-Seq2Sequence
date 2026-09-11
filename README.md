@@ -1,5 +1,5 @@
 # NLP-ENG-to-Spanish-Seq2Sequence
-n # English → Spanish Neural Machine Translation (Seq2Seq LSTM)  A sequence-to-sequence neural machine translation model built with TensorFlow/Keras that translates English sentences into Spanish, using an LSTM encoder-decoder architecture with attention.
+# English → Spanish Neural Machine Translation (Seq2Seq LSTM)  A sequence-to-sequence neural machine translation model built with TensorFlow/Keras that translates English sentences into Spanish, using an LSTM encoder-decoder architecture with attention.
 
 ## Overview
 
